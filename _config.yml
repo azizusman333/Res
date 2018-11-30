@@ -40,7 +40,13 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education #(Use this to override about education section title)
-
+- name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
