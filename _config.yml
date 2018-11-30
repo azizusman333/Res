@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Sajid Ullah
 title: Computer Vision Engineer
 email: sajidullah.ist@gmail.com
-website: Your website (optional)
+# website: Your website (optional)
 
 # Social links
 twitter_username: SajidzWahid
