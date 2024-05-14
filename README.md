@@ -163,7 +163,7 @@ Any changes you make will automatically build and you will be able to see these 
 
 ### Docker
 
-If you have docker installed you can simply run `docker-compose up` to launch the site in a container, it will then be hosted at `http://localhost:4000`
+If you have docker installed you can simply run `docker compose up` to launch the site in a container, it will then be hosted at `http://localhost:4000`
 
 ----
 
