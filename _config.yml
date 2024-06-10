@@ -90,7 +90,7 @@ content:
           
           
           
-          (/images/golfing.jpeg "golfcourse")
+          ![alt text](/images/golfing.jpeg "golfcourse")
   - title: Education
     layout: list
     content:
