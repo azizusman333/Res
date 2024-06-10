@@ -52,26 +52,6 @@ about_content: | # this will include new lines to allow paragraphs
 #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-solid fa-golf-ball-tee
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -103,7 +83,7 @@ content:
           Every course has been instrumental in the broadening of my understanding of computer engineering, and led to the further interest of where technology will go next.
 
 
-                        
+                      
           ![alt text](/images/msueduc.jpg "campus")
   - title: Skills
     layout: text
@@ -114,7 +94,14 @@ content:
       **Handiwork:** In my free time, I help out with fundraisers for local charities. These fundraisers include all sorts of actvities per charity. My favorite local charity is the **Walled Lake Civic Fund**, as all proceeds go to a huge firework show for all residents and friends of Walled Lake!
 
       **Certification in Computer Networking and Hardware:** During my junior and senior years of highschool, I took part of a dual enrollment program to take college level classes at **Oakland Schools Technical Campus**. These classes made me proficent in Networking and Hardware troubleshooting and usage.
-
+  - title: Extra Information # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
 
 # Footer
 footer_show_references: true
