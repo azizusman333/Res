@@ -52,6 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+border: weak
   - title: Experience
     layout: list
     content:
@@ -97,11 +98,11 @@ content:
   - title: Extra Information # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+      - layout: middle  
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          If you are curious about other aspects of my life, feel free to explore via the links below!
+
+          
 
 # Footer
 footer_show_references: true
