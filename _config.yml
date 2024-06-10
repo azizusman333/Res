@@ -38,7 +38,7 @@ facebook_username: conner.wilczewski
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: testing this (/images/me.jpg "Me")
+about_profile_image: (/modern-resume-theme/images/me.jpg "Me")
 about_content: | # this will include new lines to allow paragraphs
   Greetings, and welcome to my page. I love technology. As someone who's grown up with ever changing technology year after year, i've discovered a passion for watching the growth of technology over the years. 
   My goal is to one day contribute to the advancement of technology, to help mankind with problems that can be solved with technologial solutions. If you happen to share the same fondness of technology as I do, then we may have a lot in common.
