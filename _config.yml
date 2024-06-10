@@ -91,19 +91,23 @@ content:
     content:
       - layout: left
         title: Michigan State University
-        sub_title: Senior in Computer Engineering major
+        sub_title: Senior in Computer Engineering
         caption: (eg. 2021 - present)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Computer engineering involves different aspects of technology, one of the most noticeable being circuitry and the understanding of electrical engineering principles and their applications. 
+          Another important facet would be the computer side of engineering, and the programming and interworking's behind technology. 
+          Every course has been instrumental in the broadening of my understanding of computer engineering, and led to the further interest of where technology will go next.
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Speaking: Back in highschool, I was apart of a competitive speaking club, which was apart of the **Michigan Interscholastic Forensics Association** (MIFA). 
+      **Speaking:** Back in highschool, I was apart of a competitive speaking club, which was apart of the **Michigan Interscholastic Forensics Association** (MIFA). 
       In my junior and senior year, I went on to states and obtained **5th** place overall in my catagory, oratory.
 
-      Handiwork: In my free time, I help out with fundraisers for local charities. 
+      **Handiwork:** In my free time, I help out with fundraisers for local charities. These fundraisers include all sorts of actvities per charity. My favorite local charity is the **Walled Lake Civic Fund**, as all proceeds go to a huge firework show for all residents and friends of Walled Lake!
+
+      **Certification in Computer Networking and Hardware:** During my junior and senior years of highschool, I took part of a dual enrollment program to take college level classes at **Oakland Schools Technical Campus**. These classes made me proficent in Networking and Hardware troubleshooting and usage.
 
 
 # Footer
