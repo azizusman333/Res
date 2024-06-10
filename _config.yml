@@ -79,28 +79,30 @@ content:
         sub_title: Honor's Caddy
         caption: (June 2016 - present) 
         description: | # this will include new lines to allow paragraphs
+          For more information in relation to caddying, feel free to check out https://www.usga.org/content/dam/usga/pdf/host-sites/Caddies.pdf
+        quote: |
           - Skilled in assisting golf players by carrying bags, providing accurate yardage, advising on club selection, and reading greens. 
           - Proficient in maintaining a high standard of etiquette and supporting players in strategic game decisions. 
           - Demonstrated ability to build rapport with club members, enhancing their golfing experience and upholding the club’s reputation for exceptional guest service.
-        quote: |
-          For more information in relation to caddying, feel free to check out https://www.usga.org/content/dam/usga/pdf/host-sites/Caddies.pdf
   - title: Education
     layout: list
     content:
       - layout: left
         title: Michigan State University
-        sub_title: Currently a Senior wtihin the Computer Engineering major
+        sub_title: Senior in Computer Engineering major
         caption: (eg. 2021 - present)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Speaking: Back in highschool, I was apart of a competitive speaking club, which was apart of the **Michigan Interscholastic Forensics Association** (MIFA). 
+      In my junior and senior year, I went on to states and obtained **5th** place overall in my catagory, oratory.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Handiwork: In my free time, I help out with fundraisers for local charities. 
+
 
 # Footer
 footer_show_references: true
