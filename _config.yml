@@ -38,7 +38,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Pictures/me.png (Directory of profile image) (eg. images/profile.jpg)
+about_profile_image: images/me.png (Directory of profile image) (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Greetings, and welcome to my page. Since your here, allow me to give a brief idea of who I am. As someone who's grown up with everchanging technology year after year, i've discovered a passion for watching the growth of technology over the years. 
   My goal is to one day contribute to the advnacement fo technology, to help mankind with problems that can be solved with technologial solutions. If you happen to share the same fondness of technology as I do, then we may have a lot in common.
