@@ -43,13 +43,13 @@ about_content: | # this will include new lines to allow paragraphs
   Greetings, and welcome to my page. I love technology. As someone who's grown up with ever changing technology year after year, i've discovered a passion for watching the growth of technology over the years. 
   My goal is to one day contribute to the advancement of technology, to help mankind with problems that can be solved with technologial solutions. If you happen to share the same fondness of technology as I do, then we may have a lot in common.
   
-  so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+# so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#  - Lists
+#  - Tables
+#  - <a href="google.com">Links</a>
+#  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
