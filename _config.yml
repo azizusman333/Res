@@ -1,6 +1,7 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: (/images/landscape-trees.jpg "Trees")
 
 # Content configuration version
 version: 2
@@ -38,7 +39,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ![alt text](/images/me.jpg "Me")
+about_profile_image: testing this (/images/me.jpg "Me")
 about_content: | # this will include new lines to allow paragraphs
   Greetings, and welcome to my page. Since your here, allow me to give a brief idea of who I am. As someone who's grown up with everchanging technology year after year, i've discovered a passion for watching the growth of technology over the years. 
   My goal is to one day contribute to the advnacement fo technology, to help mankind with problems that can be solved with technologial solutions. If you happen to share the same fondness of technology as I do, then we may have a lot in common.
