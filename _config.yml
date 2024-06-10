@@ -63,7 +63,7 @@ content:
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: <i class="fa-solid fa-golf-ball-tee"></i>
+            icon: fab fa-solid fa-golf-ball-tee
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
