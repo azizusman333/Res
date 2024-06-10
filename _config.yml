@@ -76,11 +76,13 @@ content:
     content:
       - layout: left
         title: Caddying
+        additional_links:
+          - title:  For more on caddying (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://www.usga.org/content/dam/usga/pdf/host-sites/Caddies.pdf
         sub_title: Honor's Caddy
         caption: (June 2016 - present) 
         description: | # this will include new lines to allow paragraphs
-          For more information in relation to caddying, feel free to check out https://www.usga.org/content/dam/usga/pdf/host-sites/Caddies.pdf
-        description: |
           - Skilled in assisting golf players by carrying bags, providing accurate yardage, advising on club selection, and reading greens. 
           - Proficient in maintaining a high standard of etiquette and supporting players in strategic game decisions. 
           - Demonstrated ability to build rapport with club members, enhancing their golfing experience and upholding the club’s reputation for exceptional guest service.
