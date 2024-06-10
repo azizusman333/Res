@@ -6,17 +6,16 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Conner Wilczewski
+title: Computer Engineer
+email: Wilczew9@msu.edu
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 248-639-9659
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
