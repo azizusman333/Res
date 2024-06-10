@@ -40,9 +40,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: testing this (/images/me.jpg "Me")
 about_content: | # this will include new lines to allow paragraphs
-  Greetings, and welcome to my page. Since your here, allow me to give a brief idea of who I am. As someone who's grown up with everchanging technology year after year, i've discovered a passion for watching the growth of technology over the years. 
-  My goal is to one day contribute to the advnacement fo technology, to help mankind with problems that can be solved with technologial solutions. If you happen to share the same fondness of technology as I do, then we may have a lot in common.
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Greetings, and welcome to my page. I love technology. As someone who's grown up with ever changing technology year after year, i've discovered a passion for watching the growth of technology over the years. 
+  My goal is to one day contribute to the advancement of technology, to help mankind with problems that can be solved with technologial solutions. If you happen to share the same fondness of technology as I do, then we may have a lot in common.
+  
+  so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -62,7 +63,7 @@ content:
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+            icon: <i class="fa-solid fa-golf-ball-tee"></i>
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -93,11 +94,9 @@ content:
         title: Michigan State University
         sub_title: Senior in Computer Engineering
         caption: (eg. 2021 - present)
-        quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Computer engineering involves different aspects of technology, one of the most noticeable being circuitry and the understanding of electrical engineering principles and their applications. 
-          Another important facet would be the computer side of engineering, and the programming and interworking's behind technology. 
+          Another important facet is the computer side of engineering, the programming and interworking's behind technology. 
           Every course has been instrumental in the broadening of my understanding of computer engineering, and led to the further interest of where technology will go next.
   - title: Skills
     layout: text
