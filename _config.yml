@@ -15,7 +15,7 @@ phone: 248-639-9659
 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username:  Conwilcz
@@ -78,7 +78,7 @@ content:
       - layout: left
         title: Caddying
         additional_links:
-          - title:  For more on caddying (eg. sproogen/modern-resume-theme)
+          - title:  For more on caddying...
             icon: fab fa-github
             url: https://www.usga.org/content/dam/usga/pdf/host-sites/Caddies.pdf
         sub_title: Honor's Caddy
