@@ -90,7 +90,7 @@ content:
           
           
           
-          (/images/golfing.jpg)
+          (/images/golfing.jpeg "golfcourse")
   - title: Education
     layout: list
     content:
