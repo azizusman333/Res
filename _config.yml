@@ -83,34 +83,8 @@ content:
           Every course has been instrumental in the broadening of my understanding of computer engineering, and led to the further interest of where technology will go next.
 
 
-          
+                      
           ![alt text](/images/msueduc.jpg "campus")
-  - title: Projects
-    layout: list
-    content:
-      - layout: left
-        title: Mobile Game
-        additional_links:
-          - title:  For more on Incremental gaming. . .
-            icon: fab fa-github
-            url: https://en.wikipedia.org/wiki/Incremental_game
-        sub_title: Developer
-        caption: Winter 2021 
-        description: | # this will include new lines to allow paragraphs
-        -	Collaborated with other students to create a mobile game using the MIT app Innovator
-        -	Drove the project with guidance and teamwork building
-      - layout: left
-        title: Mobile Game
-        additional_links:
-          - title:  For more on Incremental gaming. . .
-            icon: fab fa-github
-            url: https://en.wikipedia.org/wiki/Incremental_game
-        sub_title: Developer
-        caption: Winter 2021 
-        description: | # this will include new lines to allow paragraphs
-        -	Collaborated with other students to create a mobile game using the MIT app Innovator
-        -	Drove the project with guidance and teamwork building
-
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
