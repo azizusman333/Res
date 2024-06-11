@@ -89,12 +89,28 @@ content:
     layout: list
     content:
       - layout: left
-        title: Mobile Game Design
-        sub_title: Coder and Playtester
-        caption: Fall 2021 
+        title: Mobile Game
+        additional_links:
+          - title:  For more on Incremental gaming. . .
+            icon: fab fa-github
+            url: https://en.wikipedia.org/wiki/Incremental_game
+        sub_title: Developer
+        caption: Winter 2021 
         description: | # this will include new lines to allow paragraphs
-        Given the task to design, code, and troubleshoot a mobile game app of any type, my team, split into different rolls, went to work on making a 'incremental gaming' app. 
-        [link](https://en.wikipedia.org/wiki/Incremental_game).
+        -	Collaborated with other students to create a mobile game using the MIT app Innovator
+        -	Drove the project with guidance and teamwork building
+      - layout: left
+        title: Mobile Game
+        additional_links:
+          - title:  For more on Incremental gaming. . .
+            icon: fab fa-github
+            url: https://en.wikipedia.org/wiki/Incremental_game
+        sub_title: Developer
+        caption: Winter 2021 
+        description: | # this will include new lines to allow paragraphs
+        -	Collaborated with other students to create a mobile game using the MIT app Innovator
+        -	Drove the project with guidance and teamwork building
+
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
