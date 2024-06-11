@@ -86,14 +86,21 @@ content:
                       
           ![alt text](/images/msueduc.jpg "campus")
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
-        title: ATM Design
+      - layout: left
+        title: Caddying
+        additional_links:
+          - title:  For more on caddying...
+            icon: fab fa-github
+            url: https://www.usga.org/content/dam/usga/pdf/host-sites/Caddies.pdf
+        sub_title: Honor's Caddy
+        caption: (June 2016 - present) 
         description: | # this will include new lines to allow paragraphs
-        - Created an ATM in Verilog code that fully simulates an ATM’s transfer, deposit, withdraw, and option to pay debt
-        - Coded all potential possible outcomes including invalid funds for withdrawal or processing of different deposit amounts
-
+          - Skilled in assisting golf players by carrying bags, providing accurate yardage, advising on club selection, and reading greens. 
+          - Proficient in maintaining a high standard of etiquette and supporting players in strategic game decisions. 
+          - Demonstrated ability to build rapport with club members, enhancing their golfing experience and upholding the club’s reputation for exceptional guest service.
         
   - title: Skills
     layout: text
