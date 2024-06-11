@@ -107,8 +107,18 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle  
+      - layout: left
+      title: Mobile Game
+        additional_links:
+          - title:  For more incremental gaming...
+            icon: fab fa-github
+            url: https://www.usga.org/content/dam/usga/pdf/host-sites/Caddies.pdf
+        sub_title: Developer
+        caption: Winter 2021 
         description: | # this will include new lines to allow paragraphs
+        -	Collaborated with other students to create a mobile game using the MIT app Innovator
+        -	Drove the project with guidance and teamwork building
+
           
 
 
