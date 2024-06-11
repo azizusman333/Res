@@ -82,9 +82,15 @@ content:
           Another important facet is the computer side of engineering, the programming and interworking's behind technology. 
           Every course has been instrumental in the broadening of my understanding of computer engineering, and led to the further interest of where technology will go next.
 
-
+  
                       
           ![alt text](/images/msueduc.jpg "campus")
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      Hi
+
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -102,11 +108,7 @@ content:
 
 
       **Python:** I studied and learned basic Python code.
-
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+   
       
 
           
