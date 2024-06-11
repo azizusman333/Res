@@ -83,8 +83,18 @@ content:
           Every course has been instrumental in the broadening of my understanding of computer engineering, and led to the further interest of where technology will go next.
 
 
-                      
+          
           ![alt text](/images/msueduc.jpg "campus")
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Mobile Game Design
+        sub_title: Coder and Playtester
+        caption: Fall 2021 
+        description: | # this will include new lines to allow paragraphs
+        Given the task to design, code, and troubleshoot a mobile game app of any type, my team, split into different rolls, went to work on making a 'incremental gaming' app. 
+        [link](https://en.wikipedia.org/wiki/Incremental_game).
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
