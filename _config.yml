@@ -88,8 +88,9 @@ content:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs
-      Hi
+    content:
+      - layout: left
+        title: Game Design
 
   - title: Skills
     layout: text
