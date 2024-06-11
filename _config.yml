@@ -91,30 +91,26 @@ content:
       **Speaking:** Back in highschool, I was apart of a competitive speaking club, which was apart of the **Michigan Interscholastic Forensics Association** (MIFA). 
       In my junior and senior year, I went on to states and obtained **5th** place overall in my catagory, oratory.
 
+
       **Handiwork:** In my free time, I help out with fundraisers for local charities. These fundraisers include all sorts of actvities per charity. My favorite local charity is the **Walled Lake Civic Fund**, as all proceeds go to a huge firework show for all residents and friends of Walled Lake!
 
+
       **Certification in Computer Networking and Hardware:** During my junior and senior years of highschool, I took part of a dual enrollment program to take college level classes at **Oakland Schools Technical Campus**. These classes made me proficent in Networking and Hardware troubleshooting and usage.
-  - title: Extra Information # Title for the section
+         
+
+      **Verilog:** I studied and learned Verilog code, going on to create a working ATM machine for a final project.
+
+
+      **Python:** I studied and learned basic Python code.
+
+
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: middle  
         description: | # this will include new lines to allow paragraphs
-          If you are curious about other aspects of my life, feel free to explore via the links below!
+          
 
-  - title: Projects
-    layout: list
-    content:
-      - layout: left
-        title: Mobile Game
-        additional_links:
-          - title:  For more on Incremental gaming. . .
-            icon: fab fa-github
-            url: https://en.wikipedia.org/wiki/Incremental_game
-        sub_title: Developer
-        caption: Winter 2021 
-        description: | # this will include new lines to allow paragraphs
-        -	Collaborated with other students to create a mobile game using the MIT app Innovator
-	      - Drove the project with guidance and teamwork building
 
           
 
