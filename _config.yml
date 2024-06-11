@@ -105,6 +105,13 @@ content:
           -	Created an ATM in Verilog code that fully simulates an ATM’s transfer, deposit, withdraw, and option to pay debt
           -	Coded all potential possible outcomes including invalid funds for withdrawal or processing of different deposit amounts
 
+      - layout: left
+        title: Beta Tester
+        sub_title: Game Tester
+        caption: Summer 2023
+        description: | # this will include new lines to allow paragraphs
+          -	Provided constructive feedback regularly and checked for any bugs in a now released game
+
         
   - title: Skills
     layout: text
