@@ -90,8 +90,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Game Design
+        title: ATM Design
+        description: | # this will include new lines to allow paragraphs
+        - Created an ATM in Verilog code that fully simulates an ATM’s transfer, deposit, withdraw, and option to pay debt
+        - Coded all potential possible outcomes including invalid funds for withdrawal or processing of different deposit amounts
 
+        
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -105,7 +109,7 @@ content:
       **Certification in Computer Networking and Hardware:** During my junior and senior years of highschool, I took part of a dual enrollment program to take college level classes at **Oakland Schools Technical Campus**. These classes made me proficent in Networking and Hardware troubleshooting and usage.
          
 
-      **Verilog:** I studied and learned Verilog code, going on to create a working ATM machine for a final project.
+      **Verilog:** I studied and became intermediate with Verilog coding.
 
 
       **Python:** I studied and learned basic Python code.
