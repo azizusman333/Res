@@ -101,6 +101,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           If you are curious about other aspects of my life, feel free to explore via the links below!
 
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Mobile Game
+        additional_links:
+          - title:  For more on Incremental gaming. . .
+            icon: fab fa-github
+            url: https://en.wikipedia.org/wiki/Incremental_game
+        sub_title: Developer
+        caption: Winter 2021 
+        description: | # this will include new lines to allow paragraphs
+        -	Collaborated with other students to create a mobile game using the MIT app Innovator
+	      - Drove the project with guidance and teamwork building
+
           
 
 # Footer
