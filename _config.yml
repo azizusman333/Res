@@ -1,3 +1,6 @@
+include:
+  - _pages
+
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
@@ -40,8 +43,11 @@ facebook_username: conner.wilczewski
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/me.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  Greetings, and welcome to my website. I love technology, and as someone who's grown up in an era of technological advancements, I've discovered a deep passion for watching it's use expand. With how much its helped in so many ways, it's led to me hoping to one day contribute to the advancement of it, to solve mankind's problems with technological solutions. 
-  Needless to say, if you relate, we likely have a lot in common.
+  Since a young age, I've watched as technology continued to grow more advanced.  One leap of faith in dual enrollment of a computer networking class in highschool later,
+
+
+  Since a young age, I've watched as technology would continue to grow more advanced, curiosity building more and more as the years went by. 
+  In highschool, I took a leap of faith and decided to dual enroll in highschool, and a technical campus where I would spend my time learning about 
   
 # so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -120,14 +126,16 @@ content:
 
 
       **Handiwork:** In my free time, I help out with fundraisers for local charities. These fundraisers include all sorts of actvities per charity. My favorite local charity is the **Walled Lake Civic Fund**, as all proceeds go to a huge firework show for all residents and friends of Walled Lake!
+      
+      **Technical:** Circuit Analysis, Digital Circuit Design,  Circuit Troubleshooting, Computer Partitioning, Computer Troubleshooting
 
+      **Software:** Keil, MATLAB, PSPICE, Vivado, Microsoft Word
 
-      **Certification in Computer Networking and Hardware:** During my junior and senior years of highschool, I took part of a dual enrollment program to take college level classes at **Oakland Schools Technical Campus**. These classes made me proficent in Networking and Hardware troubleshooting and usage.
-         
-
-      **Technical:** Python programming language (intermediate), Verilog (intermediate)
+      **Programming Language:** Python (Intermediate), C++ (Intermediate), Verilog (Intermediate)
 
       **Language:** English (Native), Japanese (beginner), Hawaiian (beginner)
+
+      **Certifications:** Living Online - 2019,  Computing Fundamentals - 2019
 
       If you are curious to learn more about me and what I do in my free time, feel free to explore [more about me and my hobbies!](https://conw266.github.io/)
    
